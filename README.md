@@ -1,7 +1,5 @@
-poll-app
+Django Project Documentation
 ========
-
-[Python - Django] Building a simple Web-poll application
 
 via https://docs.djangoproject.com/en/1.7/intro/tutorial01/
 
